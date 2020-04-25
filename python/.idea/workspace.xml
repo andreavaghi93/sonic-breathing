@@ -1,0 +1,605 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0a00f437-5559-49ee-b914-feae4e7ec1a0" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../Max/OSC sender_gyrosc.maxpat" beforeDir="false" afterPath="$PROJECT_DIR$/../Max/OSC sender_gyrosc.maxpat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../sonic_breathing/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../sonic_breathing/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../sonic_breathing/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/oscprova.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../sonic_breathing/.idea/sonic_breathing.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../sonic_breathing/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../sonic_breathing/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/analysis_manager.py" beforeDir="false" afterPath="$PROJECT_DIR$/../sonic_breathing/analysis_manager.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/breath_models/bm_.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/breath_models/bm_andrea_wind.npy" beforeDir="false" afterPath="$PROJECT_DIR$/../sonic_breathing/breath_models/bm_andrea_wind.npy" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/breath_models/bm_bavo.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/breath_models/bm_eskere.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buffer_manager.py" beforeDir="false" afterPath="$PROJECT_DIR$/../sonic_breathing/buffer_manager.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/freq_server.py" beforeDir="false" afterPath="$PROJECT_DIR$/../sonic_breathing/freq_server.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/phase_diff_server.py" beforeDir="false" afterPath="$PROJECT_DIR$/../sonic_breathing/phase_diff_server.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plot_manager.py" beforeDir="false" afterPath="$PROJECT_DIR$/../sonic_breathing/plot_manager.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training_server.py" beforeDir="false" afterPath="$PROJECT_DIR$/../sonic_breathing/training_server.py" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../sonic_breathing/freq_server.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="379">
+              <caret line="35" column="18" selection-start-line="35" selection-start-column="18" selection-end-line="35" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../sonic_breathing/phase_diff_server.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="246">
+              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+              <folding>
+                <element signature="e#0#19#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../sonic_breathing/training_server.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="901">
+              <caret line="57" lean-forward="true" selection-start-line="57" selection-end-line="57" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>large_buffer</find>
+      <find>buffer_size</find>
+      <find>breath_buffer</find>
+      <find>find_phase_difference</find>
+      <find>traini</find>
+      <find>buffer_cwt</find>
+      <find>above_threshold</find>
+      <find>gate_sample_left</find>
+      <find>impulses</find>
+      <find>recording</find>
+      <find>current_sample</find>
+      <find>callback_print_test_breath</find>
+      <find>queue</find>
+      <find>wavelet_analysis</find>
+      <find>callback_wavelets</find>
+      <find>analyze_buffer</find>
+      <find>plot</find>
+      <find>peakutils</find>
+      <find>load_</find>
+      <find>find</find>
+      <find>process_breath_cycle</find>
+      <find>load_model</find>
+      <find>collect_breath_sample</find>
+      <find>port_max_msp</find>
+      <find>m4l</find>
+      <find>client</find>
+      <find>start_cycle_training</find>
+      <find>record_breath_cycle</find>
+      <find>start_training_phase</find>
+      <find>breath_model</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>small_buffer_size</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/client.py" />
+        <option value="$PROJECT_DIR$/multithread_prova.py" />
+        <option value="$PROJECT_DIR$/plot_prova.py" />
+        <option value="$PROJECT_DIR$/fft_prova.py" />
+        <option value="$PROJECT_DIR$/wavelets_test.py" />
+        <option value="$PROJECT_DIR$/wavio.py" />
+        <option value="$PROJECT_DIR$/realtime_plotting_prova.py" />
+        <option value="$PROJECT_DIR$/timer_prova.py" />
+        <option value="$PROJECT_DIR$/plotting_server.py" />
+        <option value="$PROJECT_DIR$/analysis_module.py" />
+        <option value="$PROJECT_DIR$/drumplay.py" />
+        <option value="$PROJECT_DIR$/queue_prova.py" />
+        <option value="$PROJECT_DIR$/osc_mobile.py" />
+        <option value="$PROJECT_DIR$/osc_manager.py" />
+        <option value="$PROJECT_DIR$/refactoring_/main.py" />
+        <option value="$PROJECT_DIR$/refactoring/osc_manager.py" />
+        <option value="$PROJECT_DIR$/refactoring/main.py" />
+        <option value="$PROJECT_DIR$/main.py" />
+        <option value="$PROJECT_DIR$/mainnnn.py" />
+        <option value="$PROJECT_DIR$/wavalet_prova.py" />
+        <option value="$PROJECT_DIR$/wavelet_prova_2.py" />
+        <option value="$PROJECT_DIR$/server.py" />
+        <option value="$PROJECT_DIR$/peak_utils_prova.py" />
+        <option value="$PROJECT_DIR$/buffer_manager.py" />
+        <option value="$PROJECT_DIR$/server2.py" />
+        <option value="$PROJECT_DIR$/freq_det_server.py" />
+        <option value="$PROJECT_DIR$/sketch" />
+        <option value="$PROJECT_DIR$/plot_manager.py" />
+        <option value="$PROJECT_DIR$/breath_track_server.py" />
+        <option value="$PROJECT_DIR$/analysis_manager.py" />
+        <option value="$PROJECT_DIR$/training_server.py" />
+        <option value="$PROJECT_DIR$/freq_server.py" />
+        <option value="$PROJECT_DIR$/phase_track_server.py" />
+        <option value="$PROJECT_DIR$/../sonic_breathing/phase_diff_server.py" />
+        <option value="$PROJECT_DIR$/../sonic_breathing/freq_server.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="4" />
+    <option name="y" value="23" />
+    <option name="width" value="2556" />
+    <option name="height" value="1336" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="sonic_breathing" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sonic_breathing" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
+            <path>
+              <item name="oscprova" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/breath_models" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/refactoring_" />
+      <recent name="$PROJECT_DIR$/refactoring" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.training_server (1)">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="sonic_breathing" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="breath_track_server" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="sonic_breathing" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/phase_diff_server.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="freq_server (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="sonic_breathing" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../sonic_breathing" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../sonic_breathing/freq_server.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="freq_server" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="sonic_breathing" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/freq_server.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="phase_diff_server" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="sonic_breathing" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../sonic_breathing" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../sonic_breathing/phase_diff_server.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="training_server (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="sonic_breathing" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../sonic_breathing" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../sonic_breathing/training_server.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <module name="sonic_breathing" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <module name="sonic_breathing" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <module name="sonic_breathing" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_regexPattern" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Twisted Trial">
+      <module name="sonic_breathing" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <module name="sonic_breathing" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <module name="sonic_breathing" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.freq_server (1)" />
+        <item itemvalue="Python.phase_diff_server" />
+        <item itemvalue="Python.training_server (1)" />
+        <item itemvalue="Python.breath_track_server" />
+        <item itemvalue="Python.freq_server" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0a00f437-5559-49ee-b914-feae4e7ec1a0" name="Default Changelist" comment="" />
+      <created>1544519781873</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1544519781873</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="4" y="23" width="2556" height="1336" extended-state="0" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4957806" visible="true" weight="0.12110454" />
+      <window_info id="Structure" order="1" sideWeight="0.5042194" side_tool="true" weight="0.24462152" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.329582" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.6629482" visible="true" weight="0.43649518" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32917318" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32846716" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.33705178" side_tool="true" weight="0.2671533" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.32846716" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="x" language="Python" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="watch">
+      <expression>
+        <expression-string>x</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/client.py" />
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/selectors.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="661">
+          <caret line="414" selection-start-line="414" selection-end-line="414" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Library/Python/3.7/lib/python/site-packages/matplotlib/pyplot.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2066" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wavio.py" />
+    <entry file="file://$PROJECT_DIR$/wavelets_test.py" />
+    <entry file="file://$PROJECT_DIR$/plotting_server.py" />
+    <entry file="file://$PROJECT_DIR$/realtime_plotting_prova.py" />
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/socketserver.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-5219">
+          <caret line="231" selection-start-line="231" selection-end-line="231" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/drumplay.py" />
+    <entry file="file:///Volumes/HD 2/Downloads/python-osc-1.7.0/pythonosc/udp_client.py" />
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/pythonosc/osc_message_builder.py" />
+    <entry file="file://$PROJECT_DIR$/timer_prova.py" />
+    <entry file="file://$PROJECT_DIR$/fft_prova.py" />
+    <entry file="file://$PROJECT_DIR$/multithread_prova.py" />
+    <entry file="file://$PROJECT_DIR$/plot_prova.py" />
+    <entry file="file://$PROJECT_DIR$/queue_prova.py" />
+    <entry file="file:///Volumes/HD 2/Downloads/python-osc-1.7.0/pythonosc/test/test_osc_server.py" />
+    <entry file="file:///Volumes/HD 2/Downloads/python-osc-1.7.0/pythonosc/osc_server.py" />
+    <entry file="file://$PROJECT_DIR$/osc_mobile.py" />
+    <entry file="file://$PROJECT_DIR$/osc_manager.py" />
+    <entry file="file://$PROJECT_DIR$/start_main.py" />
+    <entry file="file://$PROJECT_DIR$/mainnnn.py" />
+    <entry file="file://$PROJECT_DIR$/peak_utils_prova.py" />
+    <entry file="file://$PROJECT_DIR$/freq_det_server.py" />
+    <entry file="file://$PROJECT_DIR$/sketch" />
+    <entry file="file://$PROJECT_DIR$/wavalet_prova.py" />
+    <entry file="file://$PROJECT_DIR$/wavelet_prova_2.py" />
+    <entry file="file://$PROJECT_DIR$/../sonic_breathing/analysis_manager.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1034">
+          <caret line="51" column="36" selection-start-line="51" selection-start-column="36" selection-end-line="51" selection-end-column="36" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../sonic_breathing/plot_manager.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="792">
+          <caret line="36" selection-start-line="36" selection-end-line="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../sonic_breathing/buffer_manager.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="20" column="27" lean-forward="true" selection-start-line="20" selection-start-column="27" selection-end-line="20" selection-end-column="27" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../sonic_breathing/server.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-769">
+          <caret line="55" column="39" selection-start-line="55" selection-start-column="39" selection-end-line="55" selection-end-column="39" />
+          <folding>
+            <element signature="e#184#199#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../sonic_breathing/phase_diff_server.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="246">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../sonic_breathing/training_server.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="901">
+          <caret line="57" lean-forward="true" selection-start-line="57" selection-end-line="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../sonic_breathing/freq_server.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="379">
+          <caret line="35" column="18" selection-start-line="35" selection-start-column="18" selection-end-line="35" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
